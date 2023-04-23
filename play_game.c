@@ -90,7 +90,7 @@ int last_time_got_a_4_star, double prob_five_star, bool is_five_star_fifty_fifty
                 num_4_star++;
             }
             else{ // 出答辩
-                printf("You got a piece of sh*t hahahahahahahahaha\n");
+                printf("You got 3-star item hahahahahahahahaha\n");
                 
                 }
             
