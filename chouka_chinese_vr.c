@@ -23,6 +23,7 @@ int main(){
     double prob_five_star = 0.006;
     double prob_four_star = 0.051;
     int last_time_got_a_4_star = 0;
+    printf("For English version, please read the README file for more information!\n");
     playgame(wishes, wishes_total, num_5_star, num_5_star_ex, num_4_star, num_4_star_ex, wishes_in_this_turn, 
     last_time_got_a_4_star, prob_five_star, is_five_star_fifty_fifty_lose, is_four_star_fifty_fifty_lose, prob_four_star );
     
