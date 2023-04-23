@@ -6,6 +6,7 @@ Simulates the Banner in the video game Genshin Impact. 原神抽卡模拟器
   - then type "./chouka.out" to run the executable.(Since the default run rule in Makefile executes the Chinese version, you can't use Makefile's rule to run the executable)
   - then follow the instructions in the program
   - enter "kaigua" can switch to the kaigua (literally means "cheat" in Chinese) mode where you can do any amount of wishes as you like except to 666. If you wonder why, you can check out the source code.
+  - I'm new to programing and I wrote it just for fun. Dont judge me too harshly. Thanks ∠( ᐛ 」∠)＿
 
 # 运行这个代码需要用到makefile文件
   - 在终端内输入 make， 回车
@@ -13,4 +14,5 @@ Simulates the Banner in the video game Genshin Impact. 原神抽卡模拟器
   - 按照程序内的提示来操作
   - 输入"kaigua"解锁开挂模式， 但是开挂模式时不能输入666，因为我写代码的时候偷懒了，至于为什么，你仔细看就懂了
   - 注意默认的版本是中文版
+  - 我很菜，大佬别喷，欢迎讨论
  
