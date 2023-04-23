@@ -3,7 +3,7 @@ Simulates the Banner in the video game Genshin Impact. 原神抽卡模拟器
 
 # To run the program:
   - in the command line, type "make chouka.out" to make executables
-  - then type "./chouka.out" to run the executable.(Since the default run rule in Makefile runs the Chinese version, you can't use Makefile's rule to run the executable)
+  - then type "./chouka.out" to run the executable.(Since the default run rule in Makefile executes the Chinese version, you can't use Makefile's rule to run the executable)
   - then follow the instructions in the program
   - enter "kaigua" can switch to the kaigua (literally means "cheat" in Chinese) mode where you can do any amount of wishes as you like except to 666. If you wonder why, you can check out the source code.
 
